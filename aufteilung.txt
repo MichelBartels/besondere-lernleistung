@@ -1,0 +1,20 @@
+(Vektorrepräsentation von Wörtern
+- Word2Vec
+- Glove-Vektoren
+- Bert-Worteinbettungen (word embeddings))
+
+1. Fragebezogene Informationsextrahierung aus kleinen
+Textdatensätzen am Beispiel des SQuAD-Datensatzes
+- traditionell: LSTM, RNN, Conv-Nets
+- Attention-Mechanismen
+- Transformer-Netzwerke
+- Bert
+
+2. Sinnvolle Verktorrepräsentation von Paragraphen/Dokumenten zum Vergleichen der Inhalte
+und des Informationsgehalts
+- Doc2Vec
+- hier vor allem Ansatz für Eigenleistung in Bezug auf Vektorerstellung und
+  Vergleich mit Frage
+
+3. Kombinierung der Elemente 1 und 2 zur Informationsextrahierung aus einem
+großen Datensatz
